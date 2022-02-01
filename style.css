@@ -1,6 +1,10 @@
 body{
-    background-image: url(képek/tengerp.jpg);
+    background-image: url(kepek/tengerp.jpg);
+    background-size: cover;
 }
 .container{
     background-color:whitesmoke;
+}
+nav{
+    background-color: whitesmoke;
 }
