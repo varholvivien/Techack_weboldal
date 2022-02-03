@@ -2,9 +2,6 @@ body{
     background-image: url(kepek/tengerp.jpg);
     background-size: cover;
 }
-.container{
+.container, nav, .container-fluid{
     background-color:whitesmoke;
-}
-nav{
-    background-color: whitesmoke;
 }
