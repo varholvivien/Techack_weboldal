@@ -1,5 +1,5 @@
 body{
-    background-image: url(kepek/tengerpart.jpg);
+    background-image: url(kepek/hab.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -33,4 +33,10 @@ a{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+#nagy{
+    padding-top: 50px;
+}
+.also{
+    padding-bottom: 80px;
 }
